@@ -1,70 +1,33 @@
-# docsify_sample
-# 网站预览 [docsify_sample](https://boxtrade.github.io/docsify_sample/#/)
+# 缘起
 
-> Docsify_Sample 提供各种样式的docsify样例文档，fork 即用;开盒即用！
->
-> 本案例内容尽量缩减，作者只需要关心创作内容，替换格式即可。markdown文件即写成册。
+>  月晕而风，础润而雨
 
+# 本网站系统名 天启
 
-# 须知
-- 技术基础 git 基本命令，简单的前端基础 npm ;markdown 语法
-- 改造点 [项目修改点 ](#项目修改点 )
-- 静态部署 ## [GitHub Pages](https://docsify.js.org/#/zh-cn/deploy?id=github-pages) 使用，可在线编辑；类似于gitbook
-- 国内部署 ## [Gitee Pages](https://docsify.js.org/#/zh-cn/deploy?id=gitee-pages)
-- 离线查看 [本地预览](https://docsify.js.org/#/zh-cn/quickstart?id=%e6%9c%ac%e5%9c%b0%e9%a2%84%e8%a7%88)
-- 服务器部署 ## [VPS](https://docsify.js.org/#/zh-cn/deploy?id=vps)
+网站属于boxtrade下属的量化交易系统，意为投资者提供行情，技术指标走势查看；并提供策略执行和回测；为投资者提供交易的参考，增加胜率。
 
-# 基础配置文件介绍 文件结构介绍
+> 做市场的晴雨表，让交易更理性！
 
-```
-文件作用    文件
-基础配置项（入口文件）     index.html
-封面配置文件     _coverpage.md
-侧边栏配置文件     _sidebar.md
-导航栏配置文件     _navbar.md
-主页内容渲染文件     README.md
-浏览器图标     favicon.ico
-```
+投资交易对普通人来说是一件很困难的事情，往往做到后面做成了赌博。本系统主旨从市场的行情指标和周期性判断，给出一个策略的回测记录，给交易者一个交易提示；后续系统还会增加研报分析，增加基本面的一个市场综合分析；让普通投资者或专业投资者获取综合分析更简单，在牛市中引领繁荣市场，在熊市中给出风险提示！
 
-* [基础配置项 （入口文件）index.html ](index.html)
-* [1.1 封面配置文件 _coverpage.md](_coverpage.md)
-* [1.2 侧边栏配置文件 _sidebar.md ](_sidebar.md)
-* [1.3 导航栏配置文件 _navbar.md ](_navbar.md)
-* [1.4 主页内容渲染文件 README.md ](README.md)
-* [1.5 浏览器图标 ](favicon.ico)
-* 
-```
-index.html 入口文件
-README.md 会做为主页内容渲染
-.nojekyll 用于阻止 GitHub Pages 忽略掉下划线开头的文件
-```
+> 市场有风险，投资需谨慎
 
-# 项目修改点 
+# 系统介绍
 
-1. 封面配置文件[封面配置文件](_coverpage.md) 文字介绍,图文链接修改
-2. [1.2 侧边栏配置文件 _sidebar.md ](_sidebar.md) 目录及链接修改
-3. [1.3 导航栏配置文件 _navbar.md ](_navbar.md) 链接修改
-4. [基础配置项 （入口文件）index.html ](index.html)  仓库地址 repo: 替换成需要的地址
-5. 修改 README.md 文件，开始写作
+# 系统扩展性
 
+# 系统定价
 
-# 本地部署  [教程](https://docsify.js.org/#/zh-cn/quickstart)
-通过运行 docsify serve 项目名称 启动一个本地服务器，可以方便地实时预览效果。默认访问地址 http://localhost:3000 。
+# 合作
 
-# 重要文件 ？？ 原因还在 todo 
-.nojekyll 用于阻止 GitHub Pages 忽略掉下划线开头的文件
+# 厘清
 
-# 存在问题 
-- 天下没有免费的午餐，好用的后台评论 几乎不存在！
-- gittalk 认证接口问题 不好用；
-- 页面加载缓慢 
-- 好多页面一下加载很多 md ，文件，用户体验差
-- google 字体下载？？ 默认不行吗 
-- 希望能越来越好 ！！！
+# 免责声明
 
-
-# [关于捐赠](donate/README.md) 
-[2.1 DONATE 捐赠](donate/README.md)
-- 捐赠的意义在于让原创更精彩！
-- 个人创作不易
-
+- 本站信息仅用于投资者教育之目的，不构成对投资者的任何投资建议，投资者不应当以该等信息取代其独立判断或仅根据该等信息做出决策。
+- 本站信息力求准确可靠，但对这些信息的准确性或完整性不作保证，亦不对因使用该等信息而引发或可能引发的损失承担任何责任。
+- 本站在此提醒您注意本应用所含数据未必实时、准确。本站所有差价合约（如股票、指数、期货）、加密货币及外汇价格系由第三方提供，因此价格可能并不准确且可能与实际市场价格存在差异。即该等价格仅为指示性价格，不宜为交易目的使用。因此，对于因使用该等数据而可能导致的任何交易损失，本站不承担任何责任。
+  本站不接受因依赖包含在本应用内的数据、报价、图表和买入/卖出信号而导致的损失或损害的任何责任。
+- 请充分了解与金融市场交易相关的风险和成本，这是风险最大的投资形式之一。市场有风险，投资需谨慎
+- 获取使用本站代码不得转售，不得取得著作版权；
+- 二次开发代码不允许开源  
