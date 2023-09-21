@@ -31,3 +31,11 @@
 # 5.业务表一览
 
 ![](img/assets_共享mysql登录/2023-09-21-10-18-24-image.png)
+
+# 6. 直连数据库 可本地数据工具 navicat 等 连接，或者jdbc,python
+数据库地址: rm-bp1lnqohsi2y47h4wpo.mysql.rds.aliyuncs.com:3306
+用户名：readonly
+密码：  Nbcb*12345
+到期日 2023年11月10日
+体量： 50G
+
