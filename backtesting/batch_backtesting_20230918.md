@@ -16,7 +16,7 @@
 
 > 这里推荐用Gitee码云账号登录，也可以向 管理员申请 子账号
 
-> [管理员联系方式](../contact.md) ;优先邮箱联系方式 [boxtrade@qq.com](mailto:boxtrade@qq.com)
+> [管理员联系方式](https://boxtrade.gitee.io/quant_view/#/contact) ;优先邮箱联系方式 [boxtrade@qq.com](mailto:boxtrade@qq.com)
 
 # 2、首页-回测收益表-导航
 
@@ -82,4 +82,8 @@
 
 感谢您对我们的项目表达出的关注和支持！我们致力于为用户提供高质量的回测数据，但由于开发和维护项目所需的时间和精力较大，以及托管服务器的持续运营成本较高，因此我们希望能够得到您的赞助，以便更好地维护和改进我们的项目。
 
-[赞助链接](../donate/README.md)
+[赞助链接](https://boxtrade.gitee.io/quant_view/#/donate/README)
+
+Thank you for your interest and support for our project! We are committed to providing users with high-quality backtesting data, but due to the time and effort required to develop and maintain the project, and the high ongoing operating costs of the hosting server, we hope to have your sponsorship to better maintain and improve our project.
+
+[Sponsored Links](http://wiki.boxtrade.top/quant_view/#/donate/README)
